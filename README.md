@@ -6,3 +6,4 @@
 * Lab08 - Reverse assembly 3: Omae wa mou shindeiru
 * Lab09 - Don't mp3 files do this by themselves?
 * Lab10 - Happius Primicus
+* Lab11 - Recursion
