@@ -7,3 +7,4 @@
 * Lab09 - Don't mp3 files do this by themselves?
 * Lab10 - Happius Primicus
 * Lab11 - Recursion
+* Final Lab - As the scrolls have foretold
